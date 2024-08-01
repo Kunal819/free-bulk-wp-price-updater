@@ -1,0 +1,24 @@
+.wrap h1 {
+  font-size: 1.5em;
+}
+#fbpe-progress-container {
+  margin-top: 20px;
+}
+#fbpe-progress-bar {
+  width: 0%;
+  padding: 12px 0;
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+}
+#fbpe-progress-text {
+  margin-top: 5px;
+}
+ul#fbpe-updated-products {
+  margin-top: 20px;
+  background: #fff;
+  border-radius: 17px;
+  height: auto;
+  max-height: 200px;
+  overflow: scroll;
+}
